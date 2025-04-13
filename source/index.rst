@@ -15,7 +15,7 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   windows-shortcurts.md
+    windows-shortcurts.md
 
 
 
