@@ -15,7 +15,14 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   md/windows-shortcuts.md
+   md/1-intro.md
+   md/2-transferability-overview.md
+   md/3-theory.md
+   md/4-dataset-transferability.md
+   md/5-model-transferability.md
+   md/6-learning-paradigm.md
+   md/7-application.md
+   md/8-open-question.md
 
 
 
