@@ -18,6 +18,7 @@ extensions = ['recommonmark', 'sphinx_markdown_tables', 'sphinxcontrib.bibtex']
 
 templates_path = ['_templates']
 exclude_patterns = []
+bibtex_bibfiles = ['md/references.bib']
 
 
 
